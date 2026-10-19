@@ -8,7 +8,7 @@ Ahora mismo estoy buscando trabajo como analista de datos o desarrollador Python
 
 ### Proyectos
 
-- [gym-tracker](https://github.com/danialco9/gym-tracker): una app que uso para apuntar mis entrenamientos y ver cómo evoluciono. React y TypeScript en el front, FastAPI y PostgreSQL detrás, con Docker. Se puede probar [aquí](https://gym-tracker-two-beta.vercel.app).
+- [gym-tracker](https://github.com/danialco9/gym-tracker): una app para gestionar rutinas de gimnasio y crear rutinas adaptadas a cada usuario según sus datos. React y TypeScript en el front, FastAPI y PostgreSQL detrás, con Docker. Se puede probar [aquí](https://gym-tracker-two-beta.vercel.app).
 - [proyecto-final](https://github.com/danialco9/proyecto-final): mi TFM. Un modelo con XGBoost que estima el riesgo de lesión de un deportista según cómo entrena, duerme y come, con una app en Streamlit.
 - [asistente-experto](https://github.com/danialco9/asistente-experto): un asistente de cocina que responde a partir de sus propios documentos, hecho con Gemini, LangChain y LangGraph.
 - [proyecto-machine-learning](https://github.com/danialco9/proyecto-machine-learning): análisis de ventas de una tienda online y un modelo para predecir qué clientes vuelven a comprar.
